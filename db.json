@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "34e8",
+      "username": "Ninad Samant",
+      "email": "ninadsamant@nimapinfotech.com",
+      "password": "Pass@123",
+      "confirmPassword": "Ninad@123",
+      "description": "abcd",
+      "selectOption": "JavaScript",
+      "radioOption": "Male",
+      "birthDate": "2024-01-31T18:30:00.000Z"
+    },
+    {
+      "id": "a64c",
+      "username": "React",
+      "email": "ninadsamant@nimapinfotech.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "raraauua",
+      "selectOption": "JavaScript",
+      "radioOption": "Male",
+      "birthDate": "2024-02-16T18:30:00.000Z"
+    },
+    {
+      "id": "a642",
+      "username": "abz",
+      "email": "rahul@nimapinfotech.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "xyz",
+      "selectOption": "JavaScript",
+      "radioOption": "Male",
+      "birthDate": "2024-02-28T18:30:00.000Z"
+    },
+    {
+      "id": "98c3",
+      "username": "ninad samant",
+      "email": "ninad@gmail.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "Abzajnsa",
+      "selectOption": "JavaScript",
+      "radioOption": "Male",
+      "birthDate": "2000-01-08T18:30:00.000Z"
+    },
+    {
+      "id": "75a7",
+      "username": "ebullu",
+      "email": "ninadsamant@nimapinfotech.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "sdjaniac",
+      "selectOption": "JavaScript",
+      "radioOption": "Male",
+      "birthDate": "2000-08-31T18:30:00.000Z"
+    },
+    {
+      "id": "6103",
+      "username": "React123",
+      "email": "ninadsamant@nimapinfotech.com",
+      "password": "Gohardorgohome@07",
+      "confirmPassword": "Gohardorgohome@07",
+      "description": "an jNDN",
+      "selectOption": "Java",
+      "radioOption": "Female",
+      "birthDate": "2001-01-09T18:30:00.000Z",
+      "[object HTMLInputElement]": "2001-01-10"
+    },
+    {
+      "id": "bb64",
+      "username": "react_dev_ninad",
+      "email": "test@gmail.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "sbsjcns",
+      "selectOption": "Java",
+      "radioOption": "Male",
+      "birthDate": "2002-07-02"
+    },
+    {
+      "id": "d39b",
+      "username": "_ninadd_09",
+      "email": "jhon123@gmail.com",
+      "password": "Ninad@123",
+      "confirmPassword": "Ninad@123",
+      "description": "ABZ",
+      "selectOption": "Java",
+      "radioOption": "Male",
+      "birthDate": "09-01-2000"
+    }
+  ]
+}
